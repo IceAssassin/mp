@@ -1,0 +1,72 @@
+
+Brin Storti-blog: https://www.brianstorti.com
+
+blog            : http://blog.csdn.net/icesun963/article/category/382638
+                : http://blog.sina.com.cn/s/blog_55d572ca0100uvzt.html
+                : http://blog.csdn.net/jxw167/article/details/54848150
+                : http://blog.csdn.net/pbymw8iwm/article/details/50750429
+                : http://gad.qq.com/article/detail/28682
+                : https://blog.codingnow.com/oiie/oiie/
+                : http://blog.csdn.net/peter_teng/article/details/52775960
+                : https://mp.weixin.qq.com/s/5R3UPxiZcBr-Xg12p7RiyQ
+                : http://blog.csdn.net/yaoxiaokui/article/details/49556115
+                : http://blog.csdn.net/q26335804/article/details/47420335
+                : http://blog.csdn.net/icesun963/article/details/50749082
+                : https://www.zhihu.com/question/21098952
+
+
+micro           : https://micro.mu/blog/2016/03/28/go-micro.html
+                : https://studygolang.com/articles/5276
+                : https://www.cnblogs.com/s0-0s/p/6874800.html
+                : https://open.nytimes.com/introducing-gizmo-aa7ea463b208
+
+
+akka actor      : https://doc.akka.io/docs/akka/snapshot/general/actors.html
+
+actor           : https://medium.com/@stephenebly/actors-and-the-process-calculi-a-comparison-524258d2b331
+                : https://www.cnblogs.com/jiyuqi/p/4962097.html
+
+leafserver      : https://toutiao.io/posts/0l7l7n/preview
+cellorign       : https://github.com/davyxu/cellorigin
+mqant           : https://github.com/liangdas/mqant
+
+
+go-grpc         : https://github.com/Jergoo/go-grpc-example
+                : https://segmentfault.com/a/1190000008087436
+                : https://github.com/grpc-ecosystem/grpc-gateway
+                : https://github.com/tenywen/share/blob/master/grpc-go/grpc-go.md
+
+go-grpc-lb      : https://github.com/wwcd/grpc-lb
+                : https://github.com/olivere/grpc/tree/master/lb
+
+svr-discover    : https://github.com/wothing/wonaming
+
+
+
+golang program  : https://books.studygolang.com/gopl-zh/
+
+etcd            : http://jolestar.com/etcd-architecture/
+                : https://xdays.me/etcd基础.html
+
+consul          : https://github.com/nxy105/consul-cluster-demo
+                : https://github.com/nxy105/consul-cluster-demo
+
+go-game         : https://www.cnblogs.com/isaiah/p/7259036.html
+                : https://github.com/xiaonanln/goworld
+                : https://github.com/viphxin/xingo
+                : https://github.com/davyxu/cellnet
+                : https://github.com/idada/frontd
+                : https://github.com/xtaci/gonet
+
+flatbuf         : https://code.facebook.com/posts/872547912839369/improving-facebook-s-performance-on-android-with-flatbuffers/
+                : https://blog.csdn.net/linuxheik/article/details/70743394
+                : https://www.jianshu.com/p/e2958415ff72
+                : https://www.race604.com/flatbuffers-intro/
+                : http://coolpers.github.io/android/2016/03/14/android-flatbuffers-brief.html
+                : http://ugorji.net/blog/go-codec-primer
+                : https://github.com/google/flatbuffers
+
+game-design     : http://www.voidcn.com/article/p-kzoejcwf-eo.html
+                : http://www.voidcn.com/article/p-rgukcfjd-h.html
+
+mongo-postgres  : https://www.percona.com/live/e17/sites/default/files/slides/High%20Performance%20JSON%20-%20PostgreSQL%20vs.%20MongoDB%20-%20FileId%20-%20115573.pdf

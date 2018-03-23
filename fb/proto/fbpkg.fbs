@@ -1,0 +1,6 @@
+namespace fbpkg;
+
+table FBpkg {
+  id:uint32;
+  payload:[ubyte];
+}

@@ -1,0 +1,21 @@
+// myschema.fbs
+
+include "monster.fbs";
+
+namespace users;
+
+file_identifier "MYFI";
+
+file_extension "ext";
+
+table User {
+  name:string;
+  id:ulong;
+}
+
+//rpc_service MonsterStorage {
+//  Retrieve(User):User;
+//  RetrieveStream(User streming: "avr"): User(streaming: "svr");
+//}
+
+root_type User;
